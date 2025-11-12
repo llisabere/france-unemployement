@@ -2,7 +2,8 @@
 
 Here, I use SQL to explore how unemployment rates relate to other economic indicators (like population or GDP) across French regions, and then visualize the insights in Python (pandas + matplotlib/seaborn).
 
-france-unemployement/
+<pre>
+france-unemployement/ 
 │
 ├── data/
 │   ├── unemployment.csv
@@ -18,3 +19,4 @@ france-unemployement/
 │
 ├── README.md
 └── requirements.txt
+</pre>
